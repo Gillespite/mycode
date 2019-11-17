@@ -1,0 +1,2 @@
+# mycode
+my naive code
